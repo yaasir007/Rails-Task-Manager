@@ -4,3 +4,5 @@ It has all the CURD Functions and front-end.
 
 All routes added.
 
+Front-End added.
+
